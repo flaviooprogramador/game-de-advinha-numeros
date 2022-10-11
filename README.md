@@ -1,2 +1,3 @@
 # game-de-advinha-numeros
  criei um game, que você joga com o computador, você tenta acertar o numero, que o computador gera, de 0 a 100, fiz em ingles o game...
+ <a href="https://flaviooprogramador.github.io/game-de-advinha-numeros/">execute aqui</a>
